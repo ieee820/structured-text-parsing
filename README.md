@@ -1,0 +1,1 @@
+When very large text have to be parsed, the time and space complexity have to be considered. Here I solved the same problem with two versions of programming, and you can see how algorithms design affects program performance. A scrollable pane GUI was presented to view the input text file, aiding the program development.
